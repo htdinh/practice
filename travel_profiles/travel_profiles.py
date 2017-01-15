@@ -9,7 +9,7 @@ class Hotel(object):
         self.price = price
         self.facilities = facilities
         self.num_fac = -len(facilities)  # most number of facilites start first the list
-        
+
 
 if __name__ == "__main__":
     read_lines = sys.stdin.read().splitlines()
@@ -21,7 +21,7 @@ if __name__ == "__main__":
         unless you have stored a reference to it somewhere else
         """
         if index == 0:
-            N = float(line)  # Number of hotels
+            N = int(line)  # Number of hotels
         elif index <= N:
             items = line.split()
             id, price, facilities = int(items[0]), int(items[1]), set(
