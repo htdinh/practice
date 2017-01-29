@@ -1,0 +1,2 @@
+## Introduction
+This is code to solve the past Hackerrank coding [**competition**] (https://www.hackerrank.com/contests/hourrank-16/challenges/leonardo-and-lucky-numbers). The solution here is refined after consulting the Editorial solution. However, I want to introduce clearer analysis in the Markup file.
