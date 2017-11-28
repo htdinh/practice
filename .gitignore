@@ -1,4 +1,8 @@
 # Jupyter Notebook
 **/.ipynb_checkpoint
 **/.xml
+*.DS_Store
+*.idea
+**/*.csv
+**/*.txt
 
